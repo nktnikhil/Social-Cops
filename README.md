@@ -44,9 +44,9 @@ Since we have to understand trends in each APMC and Commodity separately and it 
 * Further analysis is done from this prediction of seasonality. In case of  PIGEON PEA (TUR) in Wardha it is coming to be additive series .
 * Using this data is divided in Trend ,Seasonal and residual.  
  ![alt text](Image/Decomposed_data.png "Logo Title Text 1")
- * De-seasonalised data is its Trend part.
+ * De-seasonalised data is its Trend part.  
  ![alt text](Image/Deseasonalised.png "Logo Title Text 1")
- * Now msprice of years is compared with original data and Trend\deseasonalised price by plotting them in same plots with time.
+ * Now msprice of years is compared with original data and Trend\deseasonalised price by plotting them in same plots with time.  
  ![alt text](Image/msprice_and_raw.png "Logo Title Text 1")
  ![alt text](Image/msprice_deseasonalised.png "Logo Title Text 1")
  * Kharif - Months are July-October and Rabi Months are November-March.
